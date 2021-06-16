@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"classe": "guerrier","force": 16,"vitalite": 13,"intelligence": 10,"dexterite": 11,"equipement1": "epee","equipement2": "bouclier"},
+        {"classe": "mage","force": 10,"vitalite": 12,"intelligence": 16,"dexterite": 12,"equipement1": "baton","equipement2": "cape"},
+        {"classe": "archer","force": 12,"vitalite": 10,"intelligence": 12,"dexterite": 16,"equipement1": "arc","equipement2": "fleches"},
+        {"classe": "voleur","force": 10,"vitalite": 10,"intelligence": 10,"dexterite": 20,"equipement1": "dague","equipement2": "dague"}
+    ]
+}
